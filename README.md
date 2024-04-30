@@ -1,3 +1,0 @@
-# String Matching
-
-## Medidas Ortográficas
